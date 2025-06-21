@@ -1,0 +1,65 @@
+C:\Users\atiqa\source\repos\Wedding Invitation System\bin\Debug\Wedding Invitation System.exe.config
+C:\Users\atiqa\source\repos\Wedding Invitation System\bin\Debug\Wedding Invitation System.exe
+C:\Users\atiqa\source\repos\Wedding Invitation System\bin\Debug\Wedding Invitation System.pdb
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding Invitation System.csproj.AssemblyReference.cache
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form1.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Properties.Resources.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding Invitation System.csproj.GenerateResource.cache
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding Invitation System.csproj.CoreCompileInputs.cache
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding Invitation System.exe
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding Invitation System.pdb
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form2.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form3.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form4.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form5.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form6.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form7.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form8.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form9.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form10.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form11.resources
+C:\Users\atiqa\source\repos\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form12.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\bin\Debug\Wedding Invitation System.exe.config
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\bin\Debug\Wedding Invitation System.exe
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\bin\Debug\Wedding Invitation System.pdb
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding Invitation System.csproj.AssemblyReference.cache
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form1.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form10.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form11.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form12.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form2.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form3.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form4.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form5.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form6.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form7.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form8.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form9.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Properties.Resources.resources
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding Invitation System.csproj.GenerateResource.cache
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding Invitation System.csproj.CoreCompileInputs.cache
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding Invitation System.exe
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding Invitation System.pdb
+C:\Users\atiqa\Downloads\Wedding Invitation System (3)\Wedding Invitation System\obj\Debug\Wedding_Invitation_System.Form13.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\bin\Debug\Wedding Invitation System.exe.config
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\bin\Debug\Wedding Invitation System.exe
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\bin\Debug\Wedding Invitation System.pdb
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding Invitation System.csproj.AssemblyReference.cache
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form1.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form10.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form11.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form12.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form13.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form2.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form3.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form4.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form5.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form6.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form7.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form8.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Form9.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding_Invitation_System.Properties.Resources.resources
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding Invitation System.csproj.GenerateResource.cache
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding Invitation System.csproj.CoreCompileInputs.cache
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding Invitation System.exe
+C:\Users\atiqa\OneDrive\Documents\GitHub Project\Wedding Invitation System (3)\obj\Debug\Wedding Invitation System.pdb
